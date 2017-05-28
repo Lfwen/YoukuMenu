@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/YoukuMenu.iml" filepath="$PROJECT_DIR$/YoukuMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/优酷菜单/优酷菜单.iml" filepath="$PROJECT_DIR$/优酷菜单/优酷菜单.iml" />
+      <module fileurl="file://$PROJECT_DIR$/广告条效果-viewpager/广告条效果-viewpager.iml" filepath="$PROJECT_DIR$/广告条效果-viewpager/广告条效果-viewpager.iml" />
+    </modules>
+  </component>
+</project>
